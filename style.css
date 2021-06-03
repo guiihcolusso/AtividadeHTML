@@ -1,0 +1,111 @@
+#central{
+    width: 1200px;
+    height: 900px;
+    background-color: transparent;
+    position: absolute;
+    left: 50%;
+    margin-left: -600px;
+}
+#topo{
+    width: 1200px;
+    height: 200px;
+    background-color: transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+}
+#menu{
+    width: 1200px;
+    height: 50px;
+    background-color: transparent;
+    position: absolute;
+    top: 210px;
+    left: 0px;
+    border-radius: 10px;
+    
+}
+.text{
+    font-size: 18px;
+    color:red;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+.copiaai{
+    font-size: 12px;
+    color:azure;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+#conteudo{
+    width: 810px;
+    height: 550px;
+    background-color: transparent;
+    position: absolute;
+    top: 270px;
+    left: -0.20%;
+    padding: 18px;
+    border-radius: 10px;
+}
+#lateral{
+    width: 310px;
+    height: 550px;
+    background-color: transparent;
+    position: absolute;
+    top: 270px;
+    left: 71%;
+    padding: 18px;
+    border-radius: 10px;
+}
+#rodape{
+    width: 1165px;
+    height: 20px;
+    background-color: #00282b;
+    position: absolute;
+    top: 870px;
+    left: 0%;
+    padding: 18px;
+    border-radius: 10px;
+}
+.alinhamento{
+    text-align:center;
+    vertical-align: middle;
+    line-height: 20px;
+}
+body{
+    background-image: url(https://i.imgur.com/qUW5Hx5.jpg);
+}
+
+.button {
+    background-color: transparent;
+    
+    border: none;
+    color: azure;
+    font-size: 20px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    height: 25px;
+    width: 125px;
+
+  }
+  
+  .button:hover {
+    background-color: transparent;
+    color: red;
+    
+  }
+.img{
+    border-radius: 10px;
+  }
+p{
+    color:black;
+    font-size: medium;
+    text-align: justify;
+    text-indent: 50px;
+}
